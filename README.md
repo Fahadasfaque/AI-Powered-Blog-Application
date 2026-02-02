@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Bloggy AI
 
 ![Bloggy AI Banner](public/banner-placeholder.png)
@@ -209,4 +208,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 _Note: This project uses third-party APIs (Google Gemini, ImageKit) which may require separate terms of service compliance._
-```
