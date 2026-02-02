@@ -1,6 +1,6 @@
 # 🤖 Bloggy AI
 
-![Bloggy AI Banner](public/banner-placeholder.png)
+![Bloggy AI Banner](https://img.freepik.com/free-vector/natural-evening-landscape-with-green-hills_126523-20.jpg?semt=ais_hybrid&w=740&q=80)
 
 > _An intelligent, full-stack blogging platform that harnesses the power of AI to revolutionize content creation and management._
 
